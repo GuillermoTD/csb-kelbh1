@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://guillermotd.github.io/csb-kelbh1/static/css/main.860474d9.chunk.css",
+    "main.js": "https://guillermotd.github.io/csb-kelbh1/static/js/main.7bb45609.chunk.js",
+    "main.js.map": "https://guillermotd.github.io/csb-kelbh1/static/js/main.7bb45609.chunk.js.map",
+    "runtime-main.js": "https://guillermotd.github.io/csb-kelbh1/static/js/runtime-main.aedf3f98.js",
+    "runtime-main.js.map": "https://guillermotd.github.io/csb-kelbh1/static/js/runtime-main.aedf3f98.js.map",
+    "static/js/2.696f3422.chunk.js": "https://guillermotd.github.io/csb-kelbh1/static/js/2.696f3422.chunk.js",
+    "static/js/2.696f3422.chunk.js.map": "https://guillermotd.github.io/csb-kelbh1/static/js/2.696f3422.chunk.js.map",
+    "index.html": "https://guillermotd.github.io/csb-kelbh1/index.html",
+    "static/css/main.860474d9.chunk.css.map": "https://guillermotd.github.io/csb-kelbh1/static/css/main.860474d9.chunk.css.map",
+    "static/js/2.696f3422.chunk.js.LICENSE.txt": "https://guillermotd.github.io/csb-kelbh1/static/js/2.696f3422.chunk.js.LICENSE.txt",
+    "static/media/chat.c3b66741.svg": "https://guillermotd.github.io/csb-kelbh1/static/media/chat.c3b66741.svg",
+    "static/media/clip.87ea0626.svg": "https://guillermotd.github.io/csb-kelbh1/static/media/clip.87ea0626.svg",
+    "static/media/donut-large.1435ccfd.svg": "https://guillermotd.github.io/csb-kelbh1/static/media/donut-large.1435ccfd.svg",
+    "static/media/emoticon.5991f59a.svg": "https://guillermotd.github.io/csb-kelbh1/static/media/emoticon.5991f59a.svg",
+    "static/media/mic.1ea8156b.svg": "https://guillermotd.github.io/csb-kelbh1/static/media/mic.1ea8156b.svg",
+    "static/media/more-vert.d94b41ed.svg": "https://guillermotd.github.io/csb-kelbh1/static/media/more-vert.d94b41ed.svg",
+    "static/media/pattern.7fff1c4f.png": "https://guillermotd.github.io/csb-kelbh1/static/media/pattern.7fff1c4f.png",
+    "static/media/search.f326cfeb.svg": "https://guillermotd.github.io/csb-kelbh1/static/media/search.f326cfeb.svg",
+    "static/media/user1.4f427183.jpg": "https://guillermotd.github.io/csb-kelbh1/static/media/user1.4f427183.jpg",
+    "static/media/whatsapp.6300a339.svg": "https://guillermotd.github.io/csb-kelbh1/static/media/whatsapp.6300a339.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aedf3f98.js",
+    "static/js/2.696f3422.chunk.js",
+    "static/css/main.860474d9.chunk.css",
+    "static/js/main.7bb45609.chunk.js"
+  ]
+}
